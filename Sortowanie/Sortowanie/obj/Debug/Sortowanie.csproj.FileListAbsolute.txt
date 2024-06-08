@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\bin\Debug\Sortowanie.exe.config
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\bin\Debug\Sortowanie.exe
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\bin\Debug\Sortowanie.pdb
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\obj\Debug\Sortowanie.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\obj\Debug\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\obj\Debug\Sortowanie.exe
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\obj\Debug\Sortowanie.pdb
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\bin\Debug\Fare.dll
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\bin\Debug\Fare.xml
+C:\Users\acer\Desktop\Sortowanie\Sortowanie\obj\Debug\Sortowanie.csproj.CopyComplete
